@@ -1,1 +1,1 @@
-# great_places_app
+# It is just an app for learning flutter
